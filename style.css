@@ -1,0 +1,40 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #ededed;
+}
+.container2{
+  
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    text-align: center;
+    padding: 10px;
+    border: none;
+    background-color: #fff;
+    border-radius: 3px;
+}
+
+.btn-i {
+    padding: 10;
+    font-size: 24px;
+    border: none;
+    background-color: rgb(16, 184, 250);
+    border-radius: 3px;
+    color: white;
+
+}
+
+#btnRound {
+    /* margin-top: 25px; */
+    margin: 30px auto 0;
+    display: block;
+    padding: 20px;
+    background-color: #fff3a0;
+    border: none;
+    border-radius: 5px;
+
+}
