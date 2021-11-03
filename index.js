@@ -17,5 +17,5 @@ function action(value){
     document.getElementById("inputEnergy").value = inputEnergy;
 }
 
-
+// published
 // This code is developed by Miguel Armenta 02/11/20021
